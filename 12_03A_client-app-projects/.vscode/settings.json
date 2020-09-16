@@ -1,0 +1,10 @@
+{
+    "sqltools.connections": [
+        {
+            "database": "${workspaceFolder:12_01Z_relational-db-connection_sqlite}/server/db/db.sqlite",
+            "driver": "SQLite",
+            "name": "Q",
+            "previewLimit": 50
+        }
+    ]
+}
